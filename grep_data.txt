@@ -1,0 +1,6 @@
+ivanov@gmail.com
+это не емейл
+user.name@portal.com.ua
+wrong@email
+admin@website.org
+просто текст
